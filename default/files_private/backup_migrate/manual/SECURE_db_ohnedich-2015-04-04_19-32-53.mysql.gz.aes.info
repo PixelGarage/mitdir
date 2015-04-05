@@ -1,8 +1,0 @@
-filename = "SECURE_db_ohnedich-2015-04-04_19-32-53"
-description = ""
-datestamp = "1428168774"
-generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
-generatorversion = "7.x-2.x"
-sites[0][version] = "7.36"
-sites[0][name] = "MitDir..."
-sites[0][url] = "http://mitdir.ch/"
